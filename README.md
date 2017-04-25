@@ -1,4 +1,7 @@
-# api documentation for  [geolocator (v2.1.1)](https://github.com/onury/geolocator)  [![npm package](https://img.shields.io/npm/v/npmdoc-geolocator.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-geolocator) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-geolocator.svg)](https://travis-ci.org/npmdoc/node-npmdoc-geolocator)
+# npmdoc-geolocator
+
+#### basic api documentation for  [geolocator (v2.1.1)](https://github.com/onury/geolocator)  [![npm package](https://img.shields.io/npm/v/npmdoc-geolocator.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-geolocator) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-geolocator.svg)](https://travis-ci.org/npmdoc/node-npmdoc-geolocator)
+
 #### A utility for getting geo-location information via HTML5 and IP look-ups, geocoding, address look-ups, distance and durations, timezone information and more...
 
 [![NPM](https://nodei.co/npm/geolocator.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/geolocator)
@@ -99,7 +102,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "2.1.1"
+    "version": "2.1.1",
+    "bin": {}
 }
 ```
 
